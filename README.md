@@ -1,1 +1,3 @@
-"# CourseraGitCourse" 
+### CourseraGitCourse
+
+It's a markdown file in the repository
